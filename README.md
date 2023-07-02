@@ -1,5 +1,6 @@
 ## Project Details
 This project was created for the "Inteligencia Artificial" (AI) class, from Universidade Lusófona, as its first project.
+
 Made by: Diogo Araújo - 21905661
 
 
