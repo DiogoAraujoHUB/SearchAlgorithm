@@ -14,8 +14,12 @@ The algorithm can move to all the nodes next to it, which means it can move to t
 
 ## Environment
 These are the different type of nodes that can be made.
+
+
 ![image](https://github.com/DiogoAraujoHUB/SearchAlgorithm-Maze/assets/61624282/079f4ca2-d4ec-46b3-9276-9f6cc0b7d64b)
 
 
 This is an example environment that was created.
+
+
 ![image](https://github.com/DiogoAraujoHUB/SearchAlgorithm-Maze/assets/61624282/b5cabf57-c163-45ca-911f-cb1747ab6838)
